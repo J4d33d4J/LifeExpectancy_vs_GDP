@@ -1,2 +1,2 @@
 # LifeExpectancy_vs_GDP
- Data Analysis of Life Expectancy in a country vs its GDP growth
+ Data Analysis of Life Expectancy vs GDP in the United States, China, Germany, Mexico, Chile, and Zimbabwe.
